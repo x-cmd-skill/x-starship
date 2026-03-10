@@ -13,7 +13,9 @@ description: |
 | Tool | Purpose | Notes |
 |------|---------|-------|
 | x-cmd | Required module runtime | `brew install x-cmd` |
-| starship | Prompt engine | Optional - x-cmd auto-downloads if not present |
+| starship | Prompt engine | Optional - x-cmd auto-downloads from GitHub if not present |
+
+**Auto-download Security**: When starship is not found locally, x-cmd downloads the official binary from GitHub (https://github.com/starship/starship/releases). All downloads are verified with SHA256 checksums before execution.
 
 
 license: Apache-2.0
