@@ -152,4 +152,3 @@ x starship --run module git
 - [Starship Website](https://starship.rs)
 - [x theme](extensions/x-theme/SKILL.md) - Main theme manager
 - [x font](extensions/x-font/SKILL.md) - Font installation
-- [Back to x-cmd Skill](../../SKILL.md)
