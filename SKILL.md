@@ -10,10 +10,10 @@ description: |
 
 ## Prerequisites
 
-| Tool | Purpose | Install |
-|------|---------|---------|
+| Tool | Purpose | Notes |
+|------|---------|-------|
 | x-cmd | Required module runtime | `brew install x-cmd` |
-| starship | Prompt engine | `brew install starship` |
+| starship | Prompt engine | Optional - x-cmd auto-downloads if not present |
 
 
 license: Apache-2.0
